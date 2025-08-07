@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to Vercel</title>
+  </head>
+  <body>
+    <h1>Сайн байна уу, Vercel!</h1>
+    <p>Миний анхны вэб хуудас</p>
+  </body>
+</html>
